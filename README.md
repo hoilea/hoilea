@@ -3,9 +3,6 @@
 ---
 
 
-### Education 🎓
-- spring legacy project 이용한 mvc2 패턴의 웹 페이지 개발  @ 구트아카데미 (2019.12 ~ 2020.06)
-
 ### Projects 🚀
 - OCR_BarcodeScanner (2021.01 ~ 2021.04)
   - [Github](https://github.com/hoilea/OCR_BarcodeScanner)
