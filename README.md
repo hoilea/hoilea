@@ -14,7 +14,7 @@
   - [Github](https://github.com/hoilea/hipasar-android)
 - SmartHQ (2022.08 ~ 2023.08)
   - arden smoker, grindbrew 개발
-  - [Google Play]([https://github.com/hoilea/hipasar-android](https://play.google.com/store/apps/details?id=com.ge.kitchen&hl=ko))
+  - [Github]([https://github.com/hoilea/hipasar-android](https://play.google.com/store/apps/details?id=com.ge.kitchen&hl=ko))
 - 위치콕 (2024.09 ~ 2025.04)
   - 안드로이드 위치콕 앱 flutter 마이그레이션 진행
 
