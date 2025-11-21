@@ -14,18 +14,19 @@
   - [Github](https://github.com/hoilea/hipasar-android)
 - SmartHQ (2022.08 ~ 2023.08)
   - arden smoker, grindbrew 개발
-  - [Github]([https://github.com/hoilea/hipasar-android](https://play.google.com/store/apps/details?id=com.ge.kitchen&hl=ko))
+  - [Google Play](https://play.google.com/store/apps/details?id=com.ge.kitchen&hl=ko)
 - 위치콕 (2024.09 ~ 2025.04)
   - 안드로이드 위치콕 앱 flutter 마이그레이션 진행
 
 ### Skills
-- Java
-- Kotlin
-- Flutter
-- Python
-- Firebase
-- MVC
-- MVVM
-- Android Studio
-- Curso
-- Git
+![Java](https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=Kotlin&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=Firebase&logoColor=black)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=Android%20Studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white)
+![MVC](https://img.shields.io/badge/MVC-0078D7?style=for-the-badge&logoColor=white)
+![MVVM](https://img.shields.io/badge/MVVM-2D6A4F?style=for-the-badge&logoColor=white)
+
+
